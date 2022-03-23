@@ -1,4 +1,4 @@
 Quick start demo in github-demo repo
-testing merge conflicts
-testing area below:
-typing this here so that i can change this in another branch
+Here we have feature branch text inside start.txt file.
+this will create a conflict which has to resolved to merge the branch.
+>>>>>>> conflictBranch

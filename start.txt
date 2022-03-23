@@ -1,1 +1,3 @@
 Quick start demo in github-demo repo
+Here we have feature branch text inside start.txt file.
+this will create a conflict which has to resolved to merge the branch.
